@@ -1,0 +1,66 @@
+---
+content_type: page
+description: This page includes course meeting times, course description, prerequisites,
+  readings, and grading policy.
+draft: false
+title: Syllabus
+uid: 8da10257-93b4-40d9-8d30-ce98a0c26224
+---
+## Course Meeting Times
+
+Lectures: 2 sessions/week, 1.5 hours/session
+
+## Prerequisites
+
+One of the following courses, which fulfill the {{% resource_link "719f062c-de03-4ef0-bc98-4297bceec203" "General Institute Requirement (GIR) in Biology" %}}:
+
+- {{% resource_link "7a6d1ba9-fb67-4ed6-9e53-1321c0265706" "*7.012 Introductory Biology*" %}}
+- {{% resource_link "08a93c83-d3fe-4d14-bf6f-be775e783c54" "*7.013 Introductory Biology*" %}}
+- {{% resource_link "ed85d82d-0fe9-4c4f-9372-d12d3c277646" "*7.014 Introductory Biology*" %}}
+- *7.015 Introductory Biology*
+- {{% resource_link "6f44fb07-7cae-4b9a-9591-123601419d9c" "*7.016 Introductory Biology*" %}}
+
+one of the following courses, which fulfill the {{% resource_link "719f062c-de03-4ef0-bc98-4297bceec203" "GIR in Chemistry" %}}:
+
+- {{% resource_link "53bad36c-f54d-4fdc-9ce4-7c0577a1bbfe" "*3.091 Introduction to Solid-State Chemistry*" %}}
+- {{% resource_link "4ed16916-da23-4d24-ba17-61e9b58778fe" "*5.111 Principles of Chemical Science*" %}}
+- {{% resource_link "fa36b2d2-717e-465e-964a-4ea8d8068ec1" "*5.112 Principles of Chemical Science*" %}}
+
+and one of the following courses, which fulfill the {{% resource_link "719f062c-de03-4ef0-bc98-4297bceec203" "GIR in Physics" %}}:
+
+- {{% resource_link "7ccb8124-dd44-4806-a5e8-caf74aac3ce8" "*8.01 Physics I*" %}}
+- *8.011 Physics I*
+- {{% resource_link "0cf93899-4e9c-4db1-bf49-8a9165ebd621" "*8.012 Physics I*" %}}
+- {{% resource_link "74d15853-78d7-4fc3-9ae2-034dad888839" "*8.01L Physics I*" %}}
+
+or permission of instructor
+
+## Course Description
+
+The goal of this course is to teach the principles of materials science, chemical and mechanical engineering, and cell biology underlying the use of materials for the development of implantable and injectable devices. This course 
+
+- employs a conceptual model, the "unit cell process," for systematic analysis of the mechanisms underlying wound healing and tissue remodeling following implantation of biomaterials/devices in various organs, including matrix synthesis, degradation, and contraction;
+- explores methodology of tissue and organ regeneration;
+- focuses on the design of implants and prostheses based on control of biomaterials-tissue interactions;
+- provides a comparative analysis of permanent and biodegradable implants by reference to case studies;
+- and outlines criteria for restoration of physiological function for tissues and organs.
+
+This course was taught by Professors Myron Spector and Ioannis Yannas from 1991 to 2022. The course content continues to be updated periodically to include new knowledge acquired by the scientific, engineering, and clinical communities.
+
+## Topics
+
+- Part I: Tissue/Organ Structure; Unit Cell Processes
+- Part II: Tissue/Organ Response to Implants
+- Part III: *In Vivo* and Clinical Case Studies
+
+## Readings
+
+Readings for the course comprise lecture notes, PowerPoint slides, and journal articles. 
+
+## Grading
+
+The final grade is determined by 3 quizzes (open notes/website access). There is no final exam. The quiz questions are principally based on material discussed in class.
+
+## “Credential” Letter
+
+An option for select students, who are not enrolled at MIT or Harvard, is to obtain a letter grade for taking this course, certified in a letter from Professor Spector. **The grade would not be recognized by MIT or Harvard; there will be no official record of the grade at the institutions.** In exercising this option, the student would meet periodically by Zoom with Professor Spector, who would also administer and grade the 3 quizzes. Students interested in this option should contact Professor Spector at mspector@mit.edu.
