@@ -12,26 +12,26 @@ Lectures: 2 sessions/week, 1.5 hours/session
 
 ## Prerequisites
 
-One of the following courses, which fulfill the {{% resource_link "719f062c-de03-4ef0-bc98-4297bceec203" "General Institute Requirement (GIR) in Biology" %}}:
+One of the following courses, which fulfill the [General Institute Requirement (GIR) in Biology](https://catalog.mit.edu/mit/undergraduate-education/general-institute-requirements/):
 
-- {{% resource_link "7a6d1ba9-fb67-4ed6-9e53-1321c0265706" "*7.012 Introductory Biology*" %}}
-- {{% resource_link "08a93c83-d3fe-4d14-bf6f-be775e783c54" "*7.013 Introductory Biology*" %}}
-- {{% resource_link "ed85d82d-0fe9-4c4f-9372-d12d3c277646" "*7.014 Introductory Biology*" %}}
+- [*7.012 Introductory Biology*](https://ocw.mit.edu/courses/7-012-introduction-to-biology-fall-2004/)
+- [*7.013 Introductory Biology*](https://ocw.mit.edu/courses/7-013-introductory-biology-spring-2018/)
+- [*7.014 Introductory Biology*](https://ocw.mit.edu/courses/7-014-introductory-biology-spring-2005/)
 - *7.015 Introductory Biology*
-- {{% resource_link "6f44fb07-7cae-4b9a-9591-123601419d9c" "*7.016 Introductory Biology*" %}}
+- [*7.016 Introductory Biology*](https://ocw.mit.edu/courses/7-016-introductory-biology-fall-2018/)
 
-one of the following courses, which fulfill the {{% resource_link "719f062c-de03-4ef0-bc98-4297bceec203" "GIR in Chemistry" %}}:
+one of the following courses, which fulfill the [GIR in Chemistry](https://catalog.mit.edu/mit/undergraduate-education/general-institute-requirements/):
 
-- {{% resource_link "53bad36c-f54d-4fdc-9ce4-7c0577a1bbfe" "*3.091 Introduction to Solid-State Chemistry*" %}}
-- {{% resource_link "4ed16916-da23-4d24-ba17-61e9b58778fe" "*5.111 Principles of Chemical Science*" %}}
-- {{% resource_link "fa36b2d2-717e-465e-964a-4ea8d8068ec1" "*5.112 Principles of Chemical Science*" %}}
+- [*3.091 Introduction to Solid-State Chemistry*](https://ocw.mit.edu/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/)
+- [*5.111 Principles of Chemical Science*](https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/)
+- [*5.112 Principles of Chemical Science*](https://ocw.mit.edu/courses/5-112-principles-of-chemical-science-fall-2005/)
 
-and one of the following courses, which fulfill the {{% resource_link "719f062c-de03-4ef0-bc98-4297bceec203" "GIR in Physics" %}}:
+and one of the following courses, which fulfill the [GIR in Physics](https://catalog.mit.edu/mit/undergraduate-education/general-institute-requirements/):
 
-- {{% resource_link "7ccb8124-dd44-4806-a5e8-caf74aac3ce8" "*8.01 Physics I*" %}}
+- [*8.01 Physics I*](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/)
 - *8.011 Physics I*
-- {{% resource_link "0cf93899-4e9c-4db1-bf49-8a9165ebd621" "*8.012 Physics I*" %}}
-- {{% resource_link "74d15853-78d7-4fc3-9ae2-034dad888839" "*8.01L Physics I*" %}}
+- [*8.012 Physics I*](https://ocw.mit.edu/courses/8-012-physics-i-classical-mechanics-fall-2008/)
+- [*8.01L Physics I*](https://ocw.mit.edu/courses/8-01l-physics-i-classical-mechanics-fall-2005/)
 
 or permission of instructor
 
