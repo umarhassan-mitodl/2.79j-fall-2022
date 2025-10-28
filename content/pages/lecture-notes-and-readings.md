@@ -7,36 +7,36 @@ uid: 8846fe9d-6d41-4ff8-9084-f1dfd80eaa29
 ---
 ### Note: All of the links on this page lead to an external third-party site and content which has terms and conditions, including license rights, that are excluded from the OCW Creative Commons license (CC BY-NC-SA).
 
-Chapter 1: [Survey of Clinical Cases of Biomaterial-Tissue Interactions](https://www.dropbox.com/scl/fo/52zzjr7t4s5w1xzytwtq8/AFluldhEmd1a-sp91U3jPcE/Chapters/Chapter%201%20Survey%20of%20Clinical%20Cases%20of%20Biomaterials-Tisue%20Interactions?dl=0&rlkey=qojtvzyd9q8cpudjtvj939i69&subfolder_nav_tracking=1) (external)
+Chapter 1: {{% resource_link "63161ab2-319f-496b-b3ad-3ef30861da51" "Survey of Clinical Cases of Biomaterial-Tissue Interactions" %}} (external)
 
 ## Part I: Tissue/Organ Structure; Unit Cell Processes
 
-Chapter 2: [Tissue Structures and Unit Cell Processes](https://www.dropbox.com/scl/fo/52zzjr7t4s5w1xzytwtq8/APgYYa1X0vHAg9FKhxmSO2A/Chapters/Chapter%202%20Tissue%20Structures%20and%20Unit%20Cell%20Processes?dl=0&rlkey=qojtvzyd9q8cpudjtvj939i69) (external)
+Chapter 2: {{% resource_link "664465b8-cdd5-4cc6-875a-0bd413ecb731" "Tissue Structures and Unit Cell Processes" %}} (external)
 
-Chapter 3: [Extracellular Matrix Molecules](https://www.dropbox.com/scl/fo/52zzjr7t4s5w1xzytwtq8/AION8Ltd7UUnXQNPYq2MAbE/Chapters/Chapter%203%20Extracellular%20Matrix%20Molecules?dl=0&rlkey=qojtvzyd9q8cpudjtvj939i69) (external)
+Chapter 3: {{% resource_link "9b546721-cfa0-4130-85dc-f71fd214f8fc" "Extracellular Matrix Molecules" %}} (external)
 
-Chapter 4: [Unit Cell Processes in Wound Healing](https://www.dropbox.com/scl/fo/52zzjr7t4s5w1xzytwtq8/AMWdBlZlc263NXZDSQOMEoo/Chapters/Chapter%204%20Unit%20Cell%20Processes%20in%20Wound%20Healing?dl=0&rlkey=qojtvzyd9q8cpudjtvj939i69) (external)
+Chapter 4: {{% resource_link "2e4f8295-ed56-479f-b395-5e167e2dedd9" "Unit Cell Processes in Wound Healing" %}} (external)
 
 ## Part II: Tissue/Organ Response to Implants
 
-Chapter 5: [Biomaterials](https://www.dropbox.com/scl/fo/52zzjr7t4s5w1xzytwtq8/AKiMvFSS-XifPPHMie1Vge4/Chapters/Chapter%205%20Biomaterials?dl=0&rlkey=qojtvzyd9q8cpudjtvj939i69) (external)
+Chapter 5: {{% resource_link "92c31dc3-cca5-4b99-8458-54107708f2ce" "Biomaterials" %}} (external)
 
-Chapter 6: [Absorbable Biomaterials for Tissue Engineering and Regenerative Medicine](https://www.dropbox.com/scl/fo/52zzjr7t4s5w1xzytwtq8/AJQKBXLqBpJuQlDoA_VF8bM/Chapters/Chapter%206%20Absorbable%20Biomaterials%20for%20Tissue%20Engineering%20and%20Regenerative%20Medicine?dl=0&rlkey=qojtvzyd9q8cpudjtvj939i69) (external)
+Chapter 6: {{% resource_link "aef9e6f8-b236-4dd7-a62d-a6f4e50fc596" "Absorbable Biomaterials for Tissue Engineering and Regenerative Medicine" %}} (external)
 
-Chapter 7: [Tissue Response to Permanent Biomaterials / Prosthetic Devices](https://www.dropbox.com/scl/fo/52zzjr7t4s5w1xzytwtq8/AIF_Hmf4Xo9Mwl4LEoHJxH0/Chapters/Chapter%207%20Tissue%20Response%20to%20Permanent%20Biomaterials-Prosthetic%20Devices?dl=0&rlkey=qojtvzyd9q8cpudjtvj939i69&subfolder_nav_tracking=1) (external)
+Chapter 7: {{% resource_link "cf7aa3f0-1cc3-4d5c-826c-cf97f187eaae" "Tissue Response to Permanent Biomaterials / Prosthetic Devices" %}} (external)
 
 ## Part III: *In Vivo* and Clinical Case Studies
 
-Chapter 8: [Skin and Peripheral Nerve Regeneration](https://www.dropbox.com/scl/fo/52zzjr7t4s5w1xzytwtq8/AIeynDyr86DibzYaxuMuol8/Chapters/Chapter%208%20Skin%20and%20Peripheral%20Nerve%20Regeneration?dl=0&rlkey=qojtvzyd9q8cpudjtvj939i69&subfolder_nav_tracking=1) (external)
+Chapter 8: {{% resource_link "a26e2b68-e9d8-45f6-a94c-4d81085f668b" "Skin and Peripheral Nerve Regeneration" %}} (external)
 
-Chapter 9: [Biomaterials for Bone Reconstruction and Prosthetic Devices for Orthopedic and Dental Applications](https://www.dropbox.com/scl/fo/52zzjr7t4s5w1xzytwtq8/AFUjPvI6yHwy6sjyQQlL5gg/Chapters/Chapter%209%20Biomaterials%20for%20Bone%20Reconstruction%20and%20Prosthetic%20Devices%20for%20Orthopedic%20and%20Dental%20Applications?dl=0&rlkey=qojtvzyd9q8cpudjtvj939i69&subfolder_nav_tracking=1) (external)
+Chapter 9: {{% resource_link "5e48c7c7-53a7-4fc6-8dea-e64b82783ddf" "Biomaterials for Bone Reconstruction and Prosthetic Devices for Orthopedic and Dental Applications" %}} (external)
 
-Chapter 10: [Biomaterials for Dental Applications](https://www.dropbox.com/scl/fo/52zzjr7t4s5w1xzytwtq8/AAKhjJ1MGLle5Uu3o2Ta2UU/Chapters/Chapter%2010%20Biomaterials%20for%20Dental%20Applications?dl=0&rlkey=qojtvzyd9q8cpudjtvj939i69) (external)
+Chapter 10: {{% resource_link "2ed80a55-eef6-4199-ba67-a198e48d84a3" "Biomaterials for Dental Applications" %}} (external)
 
-Chapter 11: [Biomaterials for Cartilage Repair](https://www.dropbox.com/scl/fo/52zzjr7t4s5w1xzytwtq8/AIrtkqVZ3FHHNZ06WdV8bm0/Chapters/Chapter%2011%20Biomaterials%20for%20Cartilage%20Repair?dl=0&rlkey=qojtvzyd9q8cpudjtvj939i69) (external)
+Chapter 11: {{% resource_link "e678e454-747c-43b3-9087-87516c5fc56f" "Biomaterials for Cartilage Repair" %}} (external)
 
-Chapter 12: [Applications in Central Nervous System Organs: Spinal Cord, Brain, and Retina](https://www.dropbox.com/scl/fo/52zzjr7t4s5w1xzytwtq8/ALyA4l8kR9ssUuaJgwTc4Vo/Chapters/Chapter%2012%20Applications%20in%20Central%20Nervous%20System%20Organs%3A%20Spinal%20Cord%2C%20Brain%2C%20%20Retina?dl=0&rlkey=qojtvzyd9q8cpudjtvj939i69&subfolder_nav_tracking=1) (external)
+Chapter 12: {{% resource_link "a8faae93-23b9-4ba4-863a-6c1c2b699d79" "Applications in Central Nervous System Organs: Spinal Cord, Brain, and Retina" %}} (external)
 
-Chapter 13: [Commercialization of Biomaterials](https://www.dropbox.com/scl/fo/52zzjr7t4s5w1xzytwtq8/ADm3MHtIG7hl1YjBRO4FWoo/Chapters/Chapter%2013%20Commercialization%20of%20Biomaterials?dl=0&rlkey=qojtvzyd9q8cpudjtvj939i69) (external)
+Chapter 13: {{% resource_link "34907a93-3dd6-4f48-a137-85d76ddd8cbb" "Commercialization of Biomaterials" %}} (external)
 
 ### Note: All of the links on this page lead to an external third-party site and content which has terms and conditions, including license rights, that are excluded from the OCW Creative Commons license (CC BY-NC-SA).
